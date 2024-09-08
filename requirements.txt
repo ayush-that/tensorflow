@@ -1,0 +1,7 @@
+tensorflow
+numpy
+black
+black[jupyter]
+opencv-python
+matplotlib
+pillow
